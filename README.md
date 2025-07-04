@@ -5,14 +5,21 @@
 
 ### Description:
 This is an in-depth analysis of sales and order data for a Retail Industry, with main focus on identifying key area like Top / Bottom Performer,
-Optimization of Expenses, Marketing and RDetention of Client and priority of client using SQL and CSV file.
+Optimization of Expenses, Marketing and Retention of Client and priority of client using SQL and CSV file.
 
 
 
 
-### Skill & Tools
-Programming Language: SQL Server Management Studio
+### Tools used
+Programming Language: SQL Server Management Studio ( for Quering and Analysis)
 
 Vision Control: Git, GitHub
+
+
+### Analysis
+
+
+https://github.com/Mtee-tech/KULTRA-MEGA-STORE-KMS-SALES-ANALYSIS/tree/main
+
 
 
