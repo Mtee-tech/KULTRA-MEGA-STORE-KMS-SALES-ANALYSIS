@@ -1,6 +1,6 @@
+#  DIGITAL SKILL-UP AFRICA PROJECT 
 # KULTRA-MEGA-STORE-KMS-SALES-ANALYSIS
-
-# Hello-World this is a new repository created for my new data analysis case study.
+#  Hello-World this is a new repository created for my new data analysis case study
 
 ## Company Overview
 Ultra Mega Stores (KMS) is a leading provider of office supplies and furniture, headquartered in Lagos, Nigeria. Established to serve a diverse clientele, KMS has built a reputation for quality products and excellent customer service across Lagos and beyond.
@@ -32,7 +32,9 @@ The primary data source for this business analysis is an Excel file provided by 
 
 
 ### Tools used
-Programming Language: SQL Server Management Studio ( for Quering and Analysis)
+SQL Server Management Studio- [Download SQL File](./data/orders.sql)
+
+Microsoft Excel - [Download Excel File](./data/orders.xlsx)
 
 Vision Control: Git, GitHub
 
